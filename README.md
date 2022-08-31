@@ -13,7 +13,7 @@ If you are not sure if a change requires a Change Proposal, just ask on the appr
 
 
 ## HOW?
-1. Create a PR in this repo using the template and then announce your Change Proposal on the relevant mailing lists (i.e., tech, legal, outreach; when in doubt, include the general mailing)
+1. Create a PR using the ChangeProposal-TEMPLATE.md in the Change Proposal folder and announce your Change Proposal on the relevant mailing lists (i.e., tech, legal, outreach; when in doubt, include the general mailing)
 2. New change proposals will be reviewed by the relevant Team Leads for completeness, understandability of proposal, and to determine what team(s) is best suited to discuss this proposal. 
   * The Steering Committee will ensure that all relevant Team Leads are aware of new change proposals which have implications for more than one Team 
 3. The relevant Team Leads will make reasonable efforts to facilitate a decision as to whether a properly completed proposal is accepted to move forward or not within two months. If Owners fail to provide any needed further input or responses, a Change Proposal issue may be closed without decision. 
