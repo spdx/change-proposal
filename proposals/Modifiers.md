@@ -18,6 +18,8 @@ The limitation has already produces various bloomers:
 | n.a.                                               | LicenseRef-Apache-2.0-with-Commons-Clause | Apache-2.0 WITH CCL-Condition-1.0   |
 | BSD-2-Clause Plus Patent License | BSD-2-Clause-Patent | BSD-2-Clause WITH Patent-Clause-1.0 |
 | BSD 3-Clause No Military License | BSD-3-Clause-No-Military-License | BSD-3-Clause WITH Military-Use-Restriction | 
+| Mozilla Public License 2.0 (no copyleft exception) | MPL-2.0-no-copyleft-exception | MPL-2.0 WITH No-Secondary-License-Restriction | 
+| Cryptographic Autonomy License 1.0 (Combined Work Exception) | CAL-1.0-Combined-Work-Exception | CAL-1.0 WITH Combined-Work-Exception | 
 
 Thus, this change proposal suggests a greater conceptional change to the approach SPDX is 
 currently modelling licenses.
